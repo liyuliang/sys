@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/golang/sys/windows"
+	"github.com/liyuliang/sys/windows"
 )
 
 var _ unsafe.Pointer

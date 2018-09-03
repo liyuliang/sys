@@ -13,7 +13,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/golang/sys/unix"
+	"github.com/liyuliang/sys/unix"
 )
 
 // TestSCMCredentials tests the sending and receiving of credentials

@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/golang/sys/unix"
+	"github.com/liyuliang/sys/unix"
 )
 
 const MNT_WAIT = 1

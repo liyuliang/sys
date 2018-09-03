@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/golang/sys/unix"
+	"github.com/liyuliang/sys/unix"
 )
 
 func TestDevices(t *testing.T) {

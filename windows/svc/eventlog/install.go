@@ -9,8 +9,8 @@ package eventlog
 import (
 	"errors"
 
-	"github.com/golang/sys/windows"
-	"github.com/golang/sys/windows/registry"
+	"github.com/liyuliang/sys/windows"
+	"github.com/liyuliang/sys/windows/registry"
 )
 
 const (

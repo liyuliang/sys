@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/golang/sys/unix"
+	"github.com/liyuliang/sys/unix"
 )
 
 func TestMmap(t *testing.T) {

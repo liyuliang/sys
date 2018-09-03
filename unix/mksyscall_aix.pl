@@ -375,7 +375,7 @@ import (
 
 EOF
 
-print "import \"github.com/golang/sys/unix\"\n" if $package ne "unix";
+print "import \"github.com/liyuliang/sys/unix\"\n" if $package ne "unix";
 
 chomp($_=<<EOF);
 
